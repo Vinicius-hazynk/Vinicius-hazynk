@@ -24,3 +24,5 @@ Em 1947, os engenheiros que trabalhavam no computador Harvard Mark II encontrara
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/souza.vinicius123/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-hazynk)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:viniciussouzakta@gmail.com)
+
+<img src="https://raw.githubusercontent.com/Vinicius-hazynk/Vinicius-hazynk/output/snake.svg" alt="Snake animation" />
