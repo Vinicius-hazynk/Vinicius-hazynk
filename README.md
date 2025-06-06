@@ -2,7 +2,9 @@
 <div>
 <img align="right" width = 300px src = "https://github.com/user-attachments/assets/87681ac2-72eb-44b3-b46c-92b317b9ebde">
 </div><br><br>
+
 - 🌱 Atualmente estou estudando analise de dados e front-end.
+
 - ⚡ Fun fact: O primeiro "bug" de computador foi literalmente um inseto! 🐛
 Em 1947, os engenheiros que trabalhavam no computador Harvard Mark II encontraram uma mariposa presa em um relé, causando um mau funcionamento. Eles colaram o inseto no diário de bordo com a anotação:
 "First actual case of bug being found."Desde então, o termo "bug" passou a ser usado para erros em programas!😁
